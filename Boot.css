@@ -1,0 +1,68 @@
+.navbar-nav .nav-link{
+    float: left;
+    color: rgb(255, 255, 255);
+}
+.{box-sizing: border-box;}
+.company{
+    padding: 90px;
+  
+}
+.navbar{
+    padding-left: 80px;
+    padding-right: 80px;
+}
+.company, h2 {
+    margin-bottom: 20px;
+}
+.grand-parent{
+    background-color: orangered;
+}
+img {
+    height: 120px;
+    width: 100px;
+}
+.col-sm-6 {
+    padding: 30px;
+}
+.About{
+    padding: 20px;
+}
+@media only screen and (max-width: 600px) {
+    .col-12 {
+      width: 100%;
+    } }
+    .globe{
+        width: 190px;
+        height: 220px;
+    }
+    .two-row {
+        background-color: rgb(219, 215, 215);
+        padding: 20px;
+
+    }
+    .col-sm-4 > .icon {
+        color: rgb(255, 60, 0);
+        font-size: 75px;
+        margin: 10px;
+    }
+    .container{
+        justify-content: center;
+        align-items: center;
+        text-align: center; /* Center text horizontally */
+
+    }
+    .sub-con {
+        justify-content: center;
+        align-items: center;
+        text-align: center; /* Center text horizontally */
+    }
+    .col-sm-4 > .img {
+    width: 100px;
+    }
+    .card-header{
+        background-color: rgb(255, 57, 8);
+    }
+    .btn{
+        background-color: orangered;
+       color: aliceblue;
+    }
